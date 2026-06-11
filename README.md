@@ -1,4 +1,4 @@
-# Pokémon Gold and Silver [![Build Status][ci-badge]][ci]
+# Pokémon Gold and Silver
 
 This is an Indonesian translation of Pokémon Gold and Silver based on the pret decompilation.
 
